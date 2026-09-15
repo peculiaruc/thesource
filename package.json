@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/express": "github:types/express",
+    "express": "^5.2.1"
+  }
+}
